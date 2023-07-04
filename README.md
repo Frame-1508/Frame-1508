@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Frame-1508
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Phython and HTML and CSS
+- 🌱 I’m currently learning Phython,HTML and CSS
 - 📫 How to reach me Frame.Akarachai@gmail.com
 
 <!---
